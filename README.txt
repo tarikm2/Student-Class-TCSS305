@@ -1,17 +1,13 @@
 README.TXT CONTENTS:
 SUMMARY
-ORIGINAL ASSIGNMENT
 
 Summary
 ----------------------------------------------------------------------------------
 AUTHOR: Tarik Merzouk
 PURPOSE: Programming assignment for TCSS 305 @ UW
-DATE: 4/15/15
+DATE: 4/8/15
 
 
-This project consists of a GUI for an ice cream shop which allows users to 
-select their order from a range of options and updates their order total based
-on their selected options. The GUI also displays an Itemized total for the 
-users order upon checkout and displays an order confirmation for their 
-current order. The GUI for this Ice Cream shop is build upon the Java.Swing 
-Librarys.
+This project defines a type of AbstractStudent and types of MastersStudent and 
+UndergradStudent which inherit from AbstractStudent, both defining student objects 
+of different criteria.
